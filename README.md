@@ -2,7 +2,7 @@
 
 There are six papers and codes deposited here. I introduced them in a time series. 
 
-The first one is "Infer metabolic directions from moment differences of mass-weighted intensity distributions". It proposed a method to infer the metabolic directions by analysing the mass spectra dataset without requiring annotating their structures. 
+The first one is "Infer metabolic directions from moment differences of mass-weighted intensity distributions". It proposed a method to infer the metabolic directions by analyzing the metabolomics dataset without requiring annotating their structures. 
 
 This work was finished two years ago, and later I shared to some professors. I registered the domain, http://directome.org and http://biomathematics.org in January, 2022. It is prepared for a PNAS brief report but later I realized the mean estimator is critical in this method, so I started to develop robust mean estimators. Therefore this work was posponed to this stage.
 
