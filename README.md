@@ -2,9 +2,9 @@
 
 There are six papers and codes deposited here. I introduced them in a time series. 
 
-The first one is "Infer metabolic directions from moment differences of mass-weighted intensity distributions". It proposed a method to infer the metabolic directions by analyzing the metabolomics dataset without requiring annotating the structures of spectra. 
+The first one is "Infer metabolic directions from moment differences of mass-weighted intensity distributions". It proposed a method to infer the metabolic directions by analyzing the metabolomics dataset without requiring annotating the structures of spectra. Two new metabolic directions, duobolic and centrabolic, are deduced by estimating the second central moment of the mass-weighted intensity distributions.
 
-This work was finished two years ago, and later I shared to some professors. I registered the domain, http://directome.org and http://biomathematics.org in January, 2022. It is prepared for a PNAS brief report but later I realized the mean estimator is critical in this method, so I started to develop robust mean estimators. Therefore this work was posponed to this stage.
+This work was finished two years ago, and later I shared to some professors. I registered the domain, http://directome.org and http://biomathematics.org in January, 2022. It is prepared for a PNAS brief report but later I realized the mean and moment estimators are critical in this method, so I started to develop robust moment estimators and found that Hodges-Lehamnn estimator and median standard deviation proposed by Bickel and Lehmann are the best in this case. Therefore this work was posponed to this stage.
 
 The second one is "Matrix dissimilarity from the differences of moments and sparsity". It classified current dissimilarity measures into two groups: mean dissimilarities and sparisity dissimilarities, and proposed a new class of dissimilarity measures call standard deviation dissimilarity. This method can delineate the key factors underlying group differences. For example, in biology, mean dissimilarity indicates differences driven by up/down-regulated gene expressions, standard deviation dissimilarity reflects the heterogeneity of response to treatment, and sparsity dissimilarity corresponds to differences prompted by the activation/silence of genes.
 
