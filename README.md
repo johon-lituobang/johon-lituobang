@@ -34,6 +34,9 @@ https://www.researchgate.net/publication/377974419_Robust_estimations_from_distr
 
 Tuobang Li. (2023). Robust estimations from distribution structures: V. Non-asymptotic. https://doi.org/10.5281/zenodo.10616689 or https://www.researchgate.net/publication/377974622_Robust_estimations_from_distribution_structures_V_Non-Asymptotic
 
+Feel free to share it or contact tl@biomathematics.org, for more materials available by request.
+
+
 <!--
 **tubanlee/tubanlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
