@@ -1,5 +1,7 @@
 ### Hi, I studied in Guangdong Technion-Israel Institute of Technology and I am taking Berkeley courses now. I have started to deposite my works publically in Github since 2022 June 10 for some PNAS papers.
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 There are six papers and codes deposited here. I introduced them in a time series. 
 
 The first one is "Infer metabolic directions from moment differences of mass-weighted intensity distributions". It proposed a method to infer the metabolic directions by analyzing the metabolomics dataset without requiring annotating the structures of spectra. Two new metabolic directions, duobolic and centrabolic, are deduced by estimating the second central moment of the mass-weighted intensity distributions.
