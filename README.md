@@ -1,6 +1,6 @@
 ### Hi, I studied in Guangdong Technion-Israel Institute of Technology and I am taking Berkeley courses now. I have started to deposite my works publically in Github since 2022 June 10 for some PNAS papers.
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{tubanlee}/count.svg)
 
 There are six papers and codes deposited here. I introduced them in a time series. 
 
