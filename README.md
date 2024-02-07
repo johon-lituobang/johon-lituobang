@@ -22,7 +22,7 @@ I am introducing all these works in YouTube and Quora, if you are interested, pl
 
 Also, they have been deposited in Zenodo and Researchgate, 
 
-Tuobang Li. (2024). Infer metabolic momentum from moment differences of mass-weighted intensity distributions. Zenodo. https://doi.org/10.5281/zenodo.10616979 and https://www.researchgate.net/publication/377974502_Infer_metabolic_directions_from_moment_differences_of_mass-weighted_intensity_distributions
+Tuobang Li. (2023). Infer metabolic momentum from moment differences of mass-weighted intensity distributions. Zenodo. https://doi.org/10.5281/zenodo.10616979 and https://www.researchgate.net/publication/377974502_Infer_metabolic_directions_from_moment_differences_of_mass-weighted_intensity_distributions
 
 Tuobang Li. (2023). Matrix dissimilarities based on differences in moments and sparsity. Zenodo. https://doi.org/10.5281/zenodo.10406288 and research gate https://www.researchgate.net/publication/377974505_Matrix_dissimilarities_based_on_differences_in_moments_and_sparsity
 
