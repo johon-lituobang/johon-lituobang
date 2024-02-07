@@ -36,7 +36,7 @@ Tuobang Li. (2023). Robust estimations from distribution structures: V. Non-asym
 
 Feel free to share it or contact tl@biomathematics.org, for more materials available by request.
 
-views count since 2024, February, 7th
+view counts since 2024, February, 7th
 ![Visitor Count](https://profile-counter.glitch.me/{tubanlee}/count.svg)
 
 <!--
