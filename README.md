@@ -20,7 +20,7 @@ The sixth one is "Robust estimations from distribution structures: V. Non-asympt
 
 I am introducing all these works in YouTube and Quora, if you are interested, please visit: https://www.youtube.com/@Iobiomathematics or https://www.quora.com/profile/Tuobang-Li-1/answers . 
 
-The manuscreipts have been deposited in Zenodo and Researchgate, 
+The manuscripts have been deposited in Zenodo and Researchgate, 
 
 Tuobang Li. (2023). Infer metabolic momentum from moment differences of mass-weighted intensity distributions. Zenodo. https://doi.org/10.5281/zenodo.10616979
 https://www.researchgate.net/publication/377974502_Infer_metabolic_directions_from_moment_differences_of_mass-weighted_intensity_distributions
